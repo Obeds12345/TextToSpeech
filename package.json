@@ -1,0 +1,23 @@
+{
+  "name": "texttospeech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.7.6"
+  },
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "fs": "0.0.1-security",
+    "line-reader": "^0.4.0",
+    "mic": "^2.1.2",
+    "speaker": "^0.5.1",
+    "stream": "0.0.2",
+    "wav": "^1.0.2"
+  }
+}
